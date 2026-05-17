@@ -176,14 +176,17 @@ To reproduce results:
 
 ---
 ## Project Structure
-PXR-ADMET-pEC50-Prediction/
+openadmet-pxr-pec50/
 │
-├── PXR_ADMET_Model.ipynb        # your full pipeline notebook
-├── README.md                    # project description (you already have this)
+├── notebooks/
+│   └── PXR_ADMET_Model.ipynb
 │
-├── final_submission.csv         # generated submission file
-├── kfold_metrics.xlsx           # CV results
-├── feature_importance.xlsx      # feature analysis
-├── ablation_results.xlsx        # model comparison
+├── outputs/
+│   ├── kfold_metrics.xlsx
+│   ├── feature_importance.xlsx
+│   ├── ablation_results.xlsx
+│   └── final_submission.csv
 │
-└── requirements.txt             # dependencies (recommended)
+├── README.md
+├── requirements.txt
+└── .gitignore
