@@ -176,6 +176,9 @@ To reproduce results:
 
 ---
 ## Project Structure
+# openadmet-pxr-pec50
+
+```
 openadmet-pxr-pec50/
 │
 ├── notebooks/
@@ -190,3 +193,4 @@ openadmet-pxr-pec50/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
