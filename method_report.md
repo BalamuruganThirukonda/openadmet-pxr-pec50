@@ -1,4 +1,4 @@
-# 📄 OpenADMET PXR Challenge – Phase 2 Method Report
+# 📄 OpenADMET PXR Challenge – Method Report
 
 ---
 
